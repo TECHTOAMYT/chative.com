@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Fluids",
+  "Thumbnail": "gzkfacy2.jpg",
+  "Preview": "xixg5fmx.gif",
+  "Desc": "Fluid simulation using WebGL, reacts with system audio & cursor.",
+  "Author": "TECH TO AM",
+  "License": "MIT",
+  "Contact": "https://www.techtoam.online",
+  "Type": 2,
+  "FileName": "fluid.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
